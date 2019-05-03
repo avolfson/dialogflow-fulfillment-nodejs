@@ -256,6 +256,15 @@ const v2IncomingContexts = [
     },
     lifespanCount: 4,
   },
+  {
+    name: 'projects/project-id/agent/environments/__aog-2/sessions/88d1...a0/contexts/alpha context name',
+    parameters: {
+      parameter: 'value',
+      anotherParam: 'another value',
+      yetAnotherParam: 'yet another value',
+    },
+    lifespanCount: 1,
+  },
 ];
 
 const contextObjects = {
